@@ -1,4 +1,5 @@
 ## arrayToLowerCase
+> Convert array elements to lower case
 
 ## Install
 ```
