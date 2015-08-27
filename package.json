@@ -1,0 +1,11 @@
+{
+  "name": "array-to-lower-case",
+  "version": "0.0.1",
+  "description": "Convert array elements to lower case",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Gesualdo",
+  "license": "ISC"
+}
