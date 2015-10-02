@@ -15,3 +15,10 @@ var lowerCaseNames = arrayToLowerCase(names)
 
 console.log(lowerCaseNames)
 ```
+
+## API
+### `arrayToLowerCase(array)`
+
+| Name | Type | Description |
+|------|------|-------------|
+| array | `Array` | Array with String elements 
