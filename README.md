@@ -22,3 +22,6 @@ console.log(lowerCaseNames)
 | Name | Type | Description |
 |------|------|-------------|
 | array | `Array` | Array with String elements 
+
+## License
+MIT © Joe Gesualdo
